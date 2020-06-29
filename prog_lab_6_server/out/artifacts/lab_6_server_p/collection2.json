@@ -1,0 +1,72 @@
+{
+"1":{
+"id":1,
+"name":"Beatles",
+"coordinates":
+	{
+	"x":-9000,
+	"y":16
+	},
+"creationDate":"Apr 24, 2020 1:38:14 PM",
+"numberOfParticipants":88,
+"singlesCount":3,
+"genre":"PROGRESSIVE_ROCK",
+"frontMan":{
+	"name":"John Lennon",
+	"height":195,
+	"HeirColor":"RED",
+	"nationality":"GERMANY",
+	"location":{
+		"x":1,
+		"y":2,
+		"name":"Scene"
+		}
+	}
+},
+"2":{
+"id":2,
+"name":"Pink Floyd",
+"coordinates":
+	{
+	"x":16.0,
+	"y":19
+	},
+"creationDate":"Apr 24, 2020 1:38:14 PM",
+"numberOfParticipants":5,
+"singlesCount":2,
+"genre":"POST_ROCK",
+"frontMan":{
+	"name":"Nick Mason",
+	"height":175,
+	"HeirColor":"ORANGE",
+	"nationality":"ITALY",
+	"location":{
+		"x":6,
+		"y":4,
+		"name":"KFC"
+		}
+	}
+},
+
+"3":{
+"id":3,
+"name":"The Rolling Stones",
+"coordinates":{"x":-16.0,
+"y":-19},
+"creationDate":"Apr 24, 2020 1:38:14 PM",
+"numberOfParticipants":5,
+"singlesCount":3,
+"genre":"PUNK_ROCK",
+"frontMan":{
+	"name":"Brian Jones",
+	"height":180,
+	"HeirColor":"WHITE",
+	"nationality":"CHINA",
+		"location":{
+		"x":-18,
+		"y":18,
+		"name":"Highway"
+		}
+	}
+}
+}

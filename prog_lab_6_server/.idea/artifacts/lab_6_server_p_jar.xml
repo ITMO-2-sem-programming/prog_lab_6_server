@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="lab_6_server_p:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/lab_6_server_p</output-path>
+    <root id="root">
+      <element id="archive" name="lab_6_server_p.jar">
+        <element id="module-output" name="lab_6_server_p" />
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/src/lib/gson-2.8.5.jar" />
+    </root>
+  </artifact>
+</component>
